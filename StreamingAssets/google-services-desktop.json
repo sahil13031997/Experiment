@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724466855724",
+    "firebase_url": "https://ivee-2020.firebaseio.com",
+    "project_id": "ivee-2020",
+    "storage_bucket": "ivee-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724466855724:android:e4bc2aa8726883dae44689",
+        "android_client_info": {
+          "package_name": "com.NandiniIndia.IVEE2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724466855724-ck2add73oqqiv8h70vs93nff4jevht7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGSe0jBYzlKLE_pYRWDCtkc3owMIvY6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724466855724-ck2add73oqqiv8h70vs93nff4jevht7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
